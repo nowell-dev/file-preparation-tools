@@ -1,0 +1,4 @@
+id,name,email,department,amount,created_at
+1001,Ana Santos,ana.santos@example.com,Sales,1250.00,2026-08-01
+1002,Marco Reyes,marco.reyes@example.com,Support,875.50,2026-08-02
+1003,Liza Cruz,liza.cruz@example.com,Finance,2100.00,2026-08-03
