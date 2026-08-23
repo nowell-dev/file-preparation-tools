@@ -11,8 +11,8 @@ The output file is optional; if not provided, the input file will be updated in 
 Usage:
     python space-cleanup.py input_file.csv output_file.csv
     python space-cleanup.py input_file.csv
-    python space-cleanup.py input/remove-duplicates.csv output/remove-duplicates-spaces-cleaned.csv
-    python space-cleanup.py input/remove-duplicates.csv
+    python space-cleanup.py input/data.csv output/data-spaces-cleaned.csv
+    python space-cleanup.py input/data.csv
 """
 ##################################
 import argparse

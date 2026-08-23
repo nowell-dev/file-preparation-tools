@@ -10,8 +10,8 @@ The output file is optional; if not provided, the input file will be updated in 
 Usage:
     python remove-duplicates.py input_file.csv output_file.csv
     python remove-duplicates.py input_file.csv
-    python remove-duplicates.py input/remove-duplicates.csv output/remove-duplicates-cleaned.csv
-    python remove-duplicates.py input/remove-duplicates.csv
+    python remove-duplicates.py input/data.csv output/data-cleaned.csv
+    python remove-duplicates.py input/data.csv
 """
 ##################################
 import argparse
