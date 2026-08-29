@@ -2,7 +2,7 @@
 
 Usage:
     python split-big-csv.py number_of_parts input_file.csv
-    python split-big-csv.py 10 input/data.csv
+    python split-big-csv.py 10 folder/data.csv
 
 Output files are created beside the input file using names such as
 input/data_01.csv through input/data_10.csv. The header is written to every

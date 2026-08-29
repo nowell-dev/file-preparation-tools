@@ -2,8 +2,8 @@
 
 Usage:
     python combine-csv.py input_file.csv output_file.csv
-    python combine-csv.py input/data*.csv input/data-combined.csv
-    python combine-csv.py input/data01.csv input/data02.csv output/data-combined.csv
+    python combine-csv.py folder/data*.csv folder/data-combined.csv
+    python combine-csv.py folder/data01.csv folder/data02.csv folder/data-combined.csv
 
 Input paths may include wildcards. The output file is excluded from the input
 matches when it is already present.

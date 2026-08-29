@@ -2,8 +2,8 @@
 
 Usage:
     python parse-column.py column input_file.csv output_file.csv
-    python parse-column.py address input/data.csv output/data-addresses.csv
-    python parse-column.py phone input/data.csv output/data-phones.csv
+    python parse-column.py address folder/data.csv folder/data-addresses.csv
+    python parse-column.py phone folder/data.csv folder/data-phones.csv
 
 The selected column is split on semicolons. Rows with multiple values are
 expanded into one row per value, while all other columns are preserved.

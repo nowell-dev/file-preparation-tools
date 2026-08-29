@@ -8,8 +8,8 @@ The input path and search string are required. The output file is created beside
 the input file automatically.
 
 Usage:
-    python find-and-isolate.py input/data.csv "example.com"
-    python find-and-isolate.py input/data.csv " / " " "
+    python find-and-isolate.py folder/data.csv "example.com"
+    python find-and-isolate.py folder/data.csv " / " " "
 """
 ##################################
 import argparse
